@@ -26,7 +26,7 @@ interests = [
   "Study Design",
   "Programming",
   "Podcasts",
-  "Sports"
+  "Playing Sports"
 ]
 
 # Organizational groups that you belong to (for People widget)
