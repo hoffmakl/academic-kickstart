@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Statistician Responsibilities:
+  As a statistician, I am responsible for:
   
   * Assisting researchers with study design and data collection
   * Cleaning and analyzing data
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   * Visualizing data and statistical analysis results
   * Writing methods and results sections for manuscripts
   
-  Teaching Assistant for MS-level:
+  MS-Level courses I am the teaching assistant for:
   
   * Biostatistics II (GLM, Survival Analysis)
   * Causal Inference
@@ -53,9 +53,11 @@ date_format = "Jan 2006"
   
   * Data analyst and research manager of collaborative study with Shanghai Jiao Tong University looking at air pollution and kidney failure incidence associations in the US and Eastern China
   
+  
   Jeffrey Kidd Human Genetics Lab
   
-  * Summer research assistant; looked at ways to identify inversions in the canine genome
+  * Looked at ways to identify inversions in the canine genome
+  
   
   Monica Dus Neuroscience Lab
   
