@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   
   
   
-  Jeffrey Kidd's Computational Biology and Human Genetics Lab
+  Jeffrey Kidd's Computational Biology Lab
   
   * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome.
   
