@@ -16,7 +16,7 @@ role = "Research Biostatistician I"
 organizations = [ { name = "Weill Cornell Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am passionate about the intersection of math, medicine, and meaningful, reproducible research."
+bio = "I enjoy the intersection of math, medicine, and meaningful, reproducible research."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
