@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  As a statistician, I am responsible for:
+  Statistician Responsibilities:
   
   * Assisting researchers with study design and data collection
   * Cleaning and analyzing data
@@ -34,10 +34,11 @@ date_format = "Jan 2006"
   * Visualizing data and statistical analysis results
   * Writing methods and results sections for manuscripts
   
-  MS-Level courses I am the teaching assistant for:
   
-  * Biostatistics II (GLM, Survival Analysis)
-  * Causal Inference
+  Teaching Assistant for MS-level courses:
+  
+  * Biostatistics II (Multiple Regression, GLM, Survival Analysis) - Winter 2019
+  * Causal Inference - Spring/Summer 2019
   
   """
 
