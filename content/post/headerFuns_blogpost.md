@@ -104,9 +104,9 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](post/headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+<img src="headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.pn" />
 [[1]][[2]]
-![](post/headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
+![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
 
 ##Regression Model
