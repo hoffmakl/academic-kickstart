@@ -16,17 +16,17 @@ role = "Research Biostatistician I"
 organizations = [ { name = "Weill Cornell Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I enjoy the intersection of math, medicine, and meaningful, reproducible research."
+bio = "I enjoy the intersection of math, medicine, and meaningful research."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Study Design",
-  "Programming",
-  "Podcasts",
-  "Playing Sports"
+  "Reproducibility",
+  "Efficient Programming",
+  "Cancer Biology",
+  "Neurological Disorders"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  #For a direct email link, use "mailto:kathoffman317@gmail.com".
+  link = "mailto:kathoffman317@gmail.com"  #For a direct email link, use "mailto:kathoffman317@gmail.com".
 
 [[social]]
   icon = "twitter"
@@ -73,7 +73,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hello! I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful, reproducible research.
+Hello! I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful research.
 
 Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career statistician in mind.
 
