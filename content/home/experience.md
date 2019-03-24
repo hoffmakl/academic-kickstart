@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Biostatistician I"
   company = "Weill Cornell Medicine"
-  company_url = ""
+  company_url = "http://hpr.weill.cornell.edu/divisions/biostatistics/"
   location = "New York, NY"
   date_start = "2018-08-13"
   date_end = ""
