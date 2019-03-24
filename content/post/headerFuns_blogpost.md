@@ -3,8 +3,7 @@ Outputting Headers within Functions
 Katherine Hoffman, M.S.
 2019-03-21
 
-**The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.**
-
+<!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 When doing long, identical analyses on different data sets or variables, it can be useful to have one function which outputs your analyses in an Rmarkdown friendly (ie., with headers) format.
 
 This is a simple example of how multiple mini-analyses can be combined into one run-all function containing headers.
