@@ -22,7 +22,7 @@ summary = "Dedicated to my 22 year-old self who didn't know what she wanted to b
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
   # Caption (optional)
   #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 
