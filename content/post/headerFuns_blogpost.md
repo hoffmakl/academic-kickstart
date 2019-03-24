@@ -3,14 +3,20 @@ title: "Outputting Headers within Functions"
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
-tags: ["R Markdown", "R", "Headers", "Reporting"] 
+tags: ["R Markdown", "plot", "regression"] 
 output:
-  github_document:
   html_document:
+    keep_md: true
+  github_document:
+  #download_code: true
+#output: html_document
 
 ---
 
 
+```r
+knitr::opts_chunk$set(echo=T, results="asis", warning=F, message=F)
+```
 
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 
@@ -102,7 +108,7 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-<img src="headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png" />
+![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 [[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
