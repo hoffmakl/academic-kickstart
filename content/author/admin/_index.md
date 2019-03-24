@@ -23,10 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Study Design",
   "Programming",
   "Podcasts",
-  "Camping",
-  "Playing Sports"
+  "Sports"
 ]
 
 # Organizational groups that you belong to (for People widget)
