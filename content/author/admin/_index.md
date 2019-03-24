@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:kathoffman317@gmail.com".
+  link = "mailto:kathoffman317@gmail.com"  # For a direct email link, use "mailto:kathoffman317@gmail.com".
 
 [[social]]
   icon = "twitter"
@@ -75,5 +75,5 @@ user_groups = ["Researchers", "Visitors"]
 
 Hello! I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful, reproducible research.
 
-Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career (bio)statistician in mind.
+Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career statistician in mind.
 
