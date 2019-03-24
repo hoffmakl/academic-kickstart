@@ -53,13 +53,13 @@ date_format = "Jan 2006"
   
   * Presented study progress in Shanghai as part of the UM-SJTU kickoff nephrology research conference.
   
-  Jeffrey Kidd's Computational Biology Lab
+  [Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
   
   * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome.
   
   * Evaluated methods for finding inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.  
   
-  Monica Dus' Neuroscience and Epigenetics Lab
+  [Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
   
   * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors."""
 
