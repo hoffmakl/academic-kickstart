@@ -51,7 +51,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:kathoffman317@gmail.com".
 
 [[social]]
   icon = "twitter"
@@ -72,6 +72,5 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! Welcome to my website. I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful, reproducible research. Here you will find a bit about me, my research interests, and some resources I've put together with the audience of a student or early career (bio)statistician in mind. Suggestions to content are welcome.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
