@@ -25,13 +25,17 @@ date_format = "Jan 2006"
   date_start = "2018-08-13"
   date_end = ""
   description = """
-  Research responsibilities:
+  As a statistician I am responsible for:
   
   * Assisting researchers with study design and data collection
   * Cleaning and analyzing data
   * Managing and querying databases
   * Visualizing data and statistical analysis results
   * Writing methods and results sections for manuscripts
+  
+  I also am a teaching assistant for two Masters-level biostatistics courses offered at Weill Cornell Medical College:
+  * Biostatistics II (Multiple Linear Regression, GLMs, Survival Analysis
+  * Causal Inference
   """
 
 [[experience]]
@@ -42,10 +46,12 @@ date_format = "Jan 2006"
   date_start = "2016-09-07"
   date_end = "2018-04-24"
   description = """
-  Peter XK Song Lab:
-  
-  * Acquiring, cleaning, and maintaining national pollution databases from the EPA and CDC
-  * Generating exploratory maps of pollution and renal failure incidence data
+  Peter XK Song Biostatistics Lab
+  * Data analyst and research manager of collaborative study with Shanghai Jiao Tong University looking at air pollution and kidney failure incidence associations in the US and Eastern China
+  Jeffrey Kidd Human Genetics Lab
+  * Summer research assistant; looked at ways to identify inversions in the canine genome
+  Monica Dus Neuroscience Lab
+  * Data analysis and visualization of fruit fly feeding behaviors
   """
 
 +++
