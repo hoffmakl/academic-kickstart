@@ -48,11 +48,11 @@ date_format = "Jan 2006"
   date_start = "2016-09-07"
   date_end = "2018-04-24"
   description = """
-  Peter Song's Biostatistics Lab
+  Peter Song's Biostatistics and Epidemiology Lab
   
   * Collected, cleaned, maintained, and visualized nationwide data on air pollution levels and end stage renal failure patients in the U.S. and Eastern China for a collaborative geospatial association study between the University of Michigan and Shanghai Jiao Tong University.
   
-  * Presented study progress in Shanghai in February 2018 as part of a UM-SJTU kickoff nephrology research conference.
+  * Presented study progress in Shanghai as part of the UM-SJTU kickoff nephrology research conference.
   
   
   
@@ -60,17 +60,13 @@ date_format = "Jan 2006"
   
   * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome.
   
-  * Evaluated methods for finding inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.
-  
-  * Worked on creating a pipeline that runs multiple inversion detection programs, compiles and visualizes results.
-  
+  * Evaluated methods for finding inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.  
   
   
   Monica Dus' Neuroscience and Epigenetics Lab
   
-  * Created a pipeline in R to clean, analyze, summarize and create visualizations of large data sets of fruit fly feeding behaviors.
+  * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors.
   
-  * Assisted in debugging and running a GUI for analyzing voltage/fluorescence imaging data of Drosophila neuronal firing patterns in MATLAB.
   
   """
 
