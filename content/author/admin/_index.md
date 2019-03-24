@@ -57,7 +57,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/kathoffman07"
+  link = "https://twitter.com/Kat_Stats"
 
 [[social]]
   icon = "github"
