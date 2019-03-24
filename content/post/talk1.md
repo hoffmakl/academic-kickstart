@@ -1,5 +1,5 @@
 ---
-title: "header funs"
+title: "Creating Functions with Rmarkdown Headers"
 author: "Katherine Hoffman, M.S."
 date: "March 5, 2019"
 categories: ["R"]
@@ -12,5 +12,3 @@ output:
     keep_md: true
 
 ---
-
-See the resource I presented at WCM's Biostatistics Computing Club [here](https://github.com/hoffmakl/reporting/blob/master/headerFuns_blogpost.html)
