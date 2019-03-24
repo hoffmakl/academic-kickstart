@@ -3,7 +3,7 @@ title: "Outputting Headers within Functions"
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"] 
+tags: ["R Markdown", "Headers", "Reporting", "Results, "Html", "Table of contents", "TOC"] 
 output:
   html_document:
     keep_md: true
