@@ -22,12 +22,11 @@ bio = "I enjoy the intersection of math, medicine, and meaningful, reproducible 
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Study Design",
-  "Efficient Programming",
-  "Data Visualization",
+hobbies = [
+  "Programming",
   "Podcasts",
-  "Camping"
+  "Painting",
+  "Sports"
 ]
 
 # Organizational groups that you belong to (for People widget)
