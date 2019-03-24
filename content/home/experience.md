@@ -33,10 +33,15 @@ date_format = "Jan 2006"
   * Model fitting and testing
   * Visualizing data and analysis results
   * Writing methods and results sections for manuscripts
-  * Teaching Assistant for MS-level courses:
   
-    * Biostatistics II (GLMs, Survival Analysis) - Winter 2019
-    * Causal Inference - Spring/Summer 2019
+  Additional roles:
+  
+    * Teaching Assistant for MS-level courses:
+    
+       * Biostatistics II (GLMs, Survival Analysis) - Winter 2019
+       * Causal Inference - Spring/Summer 2019
+       
+    * Contributor to WCM Biostatistics Computing Club
   
   """
 
