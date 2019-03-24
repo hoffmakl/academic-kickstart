@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -64,9 +64,6 @@ date_format = "Jan 2006"
   
   Monica Dus' Neuroscience and Epigenetics Lab
   
-  * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors.
-  
-  
-  """
+  * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors."""
 
 +++
