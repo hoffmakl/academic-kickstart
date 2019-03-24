@@ -30,6 +30,8 @@ subtitle = ""
     publication_type = ""
     exclude_featured = false
   
+  <a href="headerFuns_blogpost.html" title="About Me">About Me</a>
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
