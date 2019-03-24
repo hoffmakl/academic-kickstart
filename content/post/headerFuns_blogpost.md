@@ -98,70 +98,46 @@ I have not yet figured out how to get rid of the [[1]] numbers signifying the el
 runManyFuns(dat1)
 ```
 
-```
-## 
-## #Data: dat1
-## 
-## ##Distributions
-## [[1]]
-## [[1]][[1]]
-```
 
+#Data: dat1
+
+##Distributions
+[[1]]
+[[1]][[1]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
-
-```
-## 
-## [[1]][[2]]
-```
-
+[[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
-```
-## 
-## 
-## 
-## ##Regression Model
-## [[1]]
-## 
-## 
-## term             estimate   std.error    statistic     p.value
-## ------------  -----------  ----------  -----------  ----------
-## (Intercept)     0.0602311   0.1322251    0.4555193   0.6507897
-## x              -0.0902709   0.1287207   -0.7012929   0.4865065
-```
+
+##Regression Model
+[[1]]
+
+
+term             estimate   std.error    statistic     p.value
+------------  -----------  ----------  -----------  ----------
+(Intercept)     0.0602311   0.1322251    0.4555193   0.6507897
+x              -0.0902709   0.1287207   -0.7012929   0.4865065
 
 ```r
 runManyFuns(dat2)
 ```
 
-```
-## 
-## #Data: dat2
-## 
-## ##Distributions
-## [[1]]
-## [[1]][[1]]
-```
 
+#Data: dat2
+
+##Distributions
+[[1]]
+[[1]][[1]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-3.png)<!-- -->
-
-```
-## 
-## [[1]][[2]]
-```
-
+[[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-4.png)<!-- -->
 
-```
-## 
-## 
-## 
-## ##Regression Model
-## [[1]]
-## 
-## 
-## term             estimate   std.error    statistic     p.value
-## ------------  -----------  ----------  -----------  ----------
-## (Intercept)    -0.0648102   0.0428622   -1.5120607   0.1311527
-## x               0.0376818   0.0424069    0.8885765   0.3746597
-```
+
+##Regression Model
+[[1]]
+
+
+term             estimate   std.error    statistic     p.value
+------------  -----------  ----------  -----------  ----------
+(Intercept)    -0.0648102   0.0428622   -1.5120607   0.1311527
+x               0.0376818   0.0424069    0.8885765   0.3746597
