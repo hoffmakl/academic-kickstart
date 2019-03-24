@@ -12,16 +12,16 @@
   name = "Research"
   url = "#experience"
   weight = 15
-
-[[main]]
-  name = "Blog"
-  url = "#blog"
-  weight = 20
   
 [[main]]
   name = "Tutorials"
   url = "#posts"
-  weight = 30  
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  url = "#blog"
+  weight = 30
   
  [[main]]
   name = "Extra"
