@@ -13,4 +13,4 @@ output:
 
 ---
 
-# See the materials I made for WCM's Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
+# See the resource I presented at WCM's Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
