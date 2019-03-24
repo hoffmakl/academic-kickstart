@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   Responsibilities:
   
   * Assisting researchers with study design and data collection
-  * Cleaning and analyzing data
   * Managing and querying databases
-  * Visualizing data and statistical analysis results
+  * Model fitting and testing
+  * Visualizing data and analysis results
   * Writing methods and results sections for manuscripts
   * Teaching Assistant for MS-level courses:
   
