@@ -13,7 +13,7 @@ role = "Research Biostatistician I"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Weill Cornell Medicine", url = "" } ]
+organizations = [ { name = "Weill Cornell Medicine", url = "http://hpr.weill.cornell.edu/divisions/biostatistics/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I enjoy the intersection of math, medicine, and meaningful research."
@@ -24,6 +24,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Statistical Methodology",
+  "Efficient & Reproducible Programming",
   "Data Visualization",
   "Cancer Biology",
   "Neurological Disorders"
