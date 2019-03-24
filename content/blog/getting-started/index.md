@@ -1,6 +1,6 @@
 +++
 title = "A Day in the Life of a Research Biostatistician"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+subtitle = "What does a biostatistician do, anyways?"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
