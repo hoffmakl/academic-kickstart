@@ -1,5 +1,6 @@
 ---
-title: "Outputting Headers within Functions"
+title: "Creating Functions with Rmarkdown Headers"
+subtitle: " "
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
