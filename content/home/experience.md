@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Biostatistician I"
+  company = "Weill Cornell Medicine"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New York, NY"
+  date_start = "2018-08-13"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research responsibilities:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Assisting researchers with study design and data collection
+  * Cleaning and analyzing data
+  * Managing and querying databases
+  * Visualizing data and statistical analysis results
+  * Writing methods and results sections for manuscripts
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Student Research Assistant"
+  company = "University of Michigan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ann Arbor, Michigan"
+  date_start = "2016-09-07"
+  date_end = "2018-04-24"
+  description = """
+  Peter XK Song Lab:
+  
+  * Acquiring, cleaning, and maintaining national pollution databases from the EPA and CDC
+  * Generating exploratory maps of pollution and renal failure incidence data
+  """
 
 +++
