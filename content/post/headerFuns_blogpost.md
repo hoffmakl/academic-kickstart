@@ -15,9 +15,6 @@ output:
     theme: "yeti"
 ---
 
---- title: "Hello R Markdown" author: "Frida Gomam" date: 2015-07-23T21:13:14-05:00 categories: ["R"] tags: ["R Markdown", "plot", "regression"] ---
-
-
 
 
 **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.**
