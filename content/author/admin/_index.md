@@ -27,8 +27,7 @@ interests = [
   "Efficient Programming",
   "Data Visualization,"
   "Podcasts,"
-  "Camping,"
-  "Broomball"
+  "Camping"
 ]
 
 # Organizational groups that you belong to (for People widget)
