@@ -58,9 +58,9 @@ date_format = "Jan 2006"
   
   Jeffrey Kidd's Computational Biology and Human Genetics Lab
   
-  * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome at the Human Genetics lab of Jeffrey Kidd.
+  * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome.
   
-  * Research project focused on finding inversions through pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.
+  * Evaluated methods for finding inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.
   
   * Worked on creating a pipeline that runs multiple inversion detection programs, compiles and visualizes results.
   
