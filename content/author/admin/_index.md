@@ -23,8 +23,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Statistical Methodology",
-  "Efficient & Reproducible Programming",
+  "Statistical Methods",
+  "Reproducibility",
   "Data Visualization",
   "Cancer Biology",
   "Neurological Disorders"
