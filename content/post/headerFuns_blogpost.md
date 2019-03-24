@@ -4,7 +4,9 @@ author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
 tags: ["R Markdown", "R", "Headers", "Reporting"] 
-output: github_document
+output:
+  github_document:
+  html_document:
 
 ---
 
