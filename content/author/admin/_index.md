@@ -24,7 +24,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Study Design,"
-  "Efficient Programming",
+  "Efficient Programming,"
   "Data Visualization,"
   "Podcasts,"
   "Camping"
@@ -76,5 +76,5 @@ user_groups = ["Researchers", "Visitors"]
 
 Hello! I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful, reproducible research.
 
-Here you will find a bit about me, my research interests, and some resources I've put together with the audience of a student or early career (bio)statistician in mind.
+Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career (bio)statistician in mind.
 
