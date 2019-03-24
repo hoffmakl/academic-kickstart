@@ -50,6 +50,8 @@ date_format = "Jan 2006"
   description = """
   {Peter Song's} Biostatistics Lab
   
+  [I'm an inline-style link](https://www.google.com)
+  
   * Collected, cleaned, maintained, and visualized nationwide data on air pollution levels and end stage renal failure patients in the U.S. and Eastern China for a collaborative geospatial association study between the University of Michigan and Shanghai Jiao Tong University.
   
   * Presented study progress in Shanghai as part of the UM-SJTU kickoff nephrology research conference.
