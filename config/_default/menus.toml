@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "#Rstats Tutorials"
+  name = "Tutorials"
   url = "#posts"
   weight = 20
 
