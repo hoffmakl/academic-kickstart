@@ -26,19 +26,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Statistician Responsibilities:
+  Responsibilities:
   
   * Assisting researchers with study design and data collection
   * Cleaning and analyzing data
   * Managing and querying databases
   * Visualizing data and statistical analysis results
   * Writing methods and results sections for manuscripts
+  * Teaching Assistant for MS-level courses:
   
-  
-  Teaching Assistant for MS-level courses:
-  
-  * Biostatistics II (Multiple Regression, GLM, Survival Analysis) - Winter 2019
-  * Causal Inference - Spring/Summer 2019
+    * Biostatistics II (Multiple Regression, GLM, Survival Analysis) - Winter 2019
+    * Causal Inference - Spring/Summer 2019
   
   """
 
