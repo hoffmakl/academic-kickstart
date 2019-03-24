@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:kathoffman317@gmail.com"  # For a direct email link, use "mailto:kathoffman317@gmail.com".
+  link = "#contact"  # For a direct email link, use "mailto:kathoffman317@gmail.com".
 
 [[social]]
   icon = "twitter"
