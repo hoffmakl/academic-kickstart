@@ -1,21 +1,7 @@
----
-title: "Outputting Headers within Functions"
-author: "Katherine Hoffman, M.S."
-date: 2019-03-21
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"] 
-output:
-  rmarkdown::html_document:
-    code_download: true
-    keep_md: true
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
-    theme: "yeti"
----
-
-
+Outputting Headers within Functions
+================
+Katherine Hoffman, M.S.
+2019-03-21
 
 **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.**
 
@@ -25,15 +11,14 @@ This is a simple example of how multiple mini-analyses can be combined into one 
 
 Let's say we have two separate data sets, `dat1` and `dat2`, and we want to look do two analyses on each data set.
 
-1. Look at the distribution of each `x` and `y` variable
-2. Run and report a regression model, `y` ~ `x`
+1.  Look at the distribution of each `x` and `y` variable
+2.  Run and report a regression model, `y` ~ `x`
 
 We want the scientists who will read our report to be able to click on each sub-analysis in our table of contents.
 
 Let's start by creating our data sets:
 
-
-```r
+``` r
 library(ggplot2)
 library(magrittr)
 library(htmltools)
@@ -45,8 +30,7 @@ dat2 <- data.frame(x=rnorm(500),y=rnorm(500))
 
 We can then make a few mini functions which will carry out each analysis.
 
-
-```r
+``` r
 xDistFun <- function(dat){
   ggplot(dat, aes(x)) + geom_histogram(fill="blue")}
 
@@ -63,8 +47,7 @@ Writing a function to return this output is non-intuitive, because it requires y
 
 Note: you cannot save the `cat`-ed version of your header, or `cat` it at all until you have reached the end of your function and you are ready to return/print all of your results. This is because `cat` immediately returns its output to the screen (and also does not save as an object).
 
-
-```r
+``` r
 runManyFuns <- function(dat){
   # grab the name of our object for the main header
   title <- deparse(substitute(dat)) 
@@ -93,54 +76,49 @@ runManyFuns <- function(dat){
 
 This new function allows us to run and report our identical analyses on both `dat1` and `dat2` in a clean and concise way.
 
-I have not yet figured out how to get rid of the [[1]] numbers signifying the elements of my list. I hope to utilize the `htmltools` package to get rid of these eventually.
+I have not yet figured out how to get rid of the \[\[1\]\] numbers signifying the elements of my list. I hope to utilize the `htmltools` package to get rid of these eventually.
 
-
-```r
+``` r
 # Run same analysis on different data sets, outcomes, etc.
 runManyFuns(dat1)
 ```
 
+Data: dat1
+==========
 
-#Data: dat1
+Distributions
+-------------
 
-##Distributions
-[[1]]
-[[1]][[1]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
-[[1]][[2]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
+\[\[1\]\]\[\[1\]\]\[\[1\]\] ![](headerFuns_blogpost_files/figure-markdown_github/unnamed-chunk-4-1.png) \[\[1\]\]\[\[2\]\] ![](headerFuns_blogpost_files/figure-markdown_github/unnamed-chunk-4-2.png)
 
+Regression Model
+----------------
 
-##Regression Model
-[[1]]
+\[\[1\]\]
 
+| term        |    estimate|  std.error|   statistic|    p.value|
+|:------------|-----------:|----------:|-----------:|----------:|
+| (Intercept) |   0.0602311|  0.1322251|   0.4555193|  0.6507897|
+| x           |  -0.0902709|  0.1287207|  -0.7012929|  0.4865065|
 
-term             estimate   std.error    statistic     p.value
-------------  -----------  ----------  -----------  ----------
-(Intercept)     0.0602311   0.1322251    0.4555193   0.6507897
-x              -0.0902709   0.1287207   -0.7012929   0.4865065
-
-```r
+``` r
 runManyFuns(dat2)
 ```
 
+Data: dat2
+==========
 
-#Data: dat2
+Distributions
+-------------
 
-##Distributions
-[[1]]
-[[1]][[1]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-3.png)<!-- -->
-[[1]][[2]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-4.png)<!-- -->
+\[\[1\]\]\[\[1\]\]\[\[1\]\] ![](headerFuns_blogpost_files/figure-markdown_github/unnamed-chunk-4-3.png) \[\[1\]\]\[\[2\]\] ![](headerFuns_blogpost_files/figure-markdown_github/unnamed-chunk-4-4.png)
 
+Regression Model
+----------------
 
-##Regression Model
-[[1]]
+\[\[1\]\]
 
-
-term             estimate   std.error    statistic     p.value
-------------  -----------  ----------  -----------  ----------
-(Intercept)    -0.0648102   0.0428622   -1.5120607   0.1311527
-x               0.0376818   0.0424069    0.8885765   0.3746597
+| term        |    estimate|  std.error|   statistic|    p.value|
+|:------------|-----------:|----------:|-----------:|----------:|
+| (Intercept) |  -0.0648102|  0.0428622|  -1.5120607|  0.1311527|
+| x           |   0.0376818|  0.0424069|   0.8885765|  0.3746597|
