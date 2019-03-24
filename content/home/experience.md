@@ -48,6 +48,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-07"
   date_end = "2018-04-24"
   description = """
+  
   Peter Song's Biostatistics Lab
   
   * Collected, cleaned, maintained, and visualized nationwide data on air pollution levels and end stage renal failure patients in the U.S. and Eastern China for a collaborative geospatial association study between the University of Michigan and Shanghai Jiao Tong University.
@@ -64,6 +65,8 @@ date_format = "Jan 2006"
   
   Monica Dus' Neuroscience and Epigenetics Lab
   
-  * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors."""
+  * Created a pipeline in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors.
+  
+  """
 
 +++
