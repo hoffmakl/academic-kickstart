@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling with dplyr"
 author: "Katherine Hoffman, M.S."
-date: 2019-03-21
+date: "March 5, 2019"
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"] 
 output:
@@ -12,4 +12,4 @@ output:
 
 ---
 
-[Data Wrangling with dplyr](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
+See the materials I made for WCM's Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
