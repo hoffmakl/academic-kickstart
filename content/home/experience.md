@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   * Writing methods and results sections for manuscripts
   * Teaching Assistant for MS-level courses:
   
-    * Biostatistics II (Multiple Regression, GLM, Survival Analysis) - Winter 2019
+    * Biostatistics II (GLMs, Survival Analysis) - Winter 2019
     * Causal Inference - Spring/Summer 2019
   
   """
