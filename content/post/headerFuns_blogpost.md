@@ -3,7 +3,7 @@ title: "Outputting Headers within Functions"
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
-external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns_blogpost.html"
+external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
 tags: ["R Markdown", "plot", "regression"] 
 output:
   #github_document:
@@ -105,7 +105,7 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.PNG)<!-- -->
+<img src="headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.PNG" /> 
 [[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
