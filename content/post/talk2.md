@@ -4,7 +4,7 @@ author: "Katherine Hoffman, M.S."
 date: "March 5, 2019"
 categories: ["R"]
 external_link: "https://wcm-computing-club.github.io/"
-tags: ["dplyr", "Data Cleaning"] 
+tags: ["dplyr"] 
 output:
   #github_document:
   #download_code: true
