@@ -1,11 +1,11 @@
 ---
 title: "Creating Functions with Rmarkdown Headers"
-subtitle: " "
+subtitle: "Clean up your code to report repetitive analyses."
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
 external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
-tags: ["R Markdown", "plot", "regression"] 
+tags: ["RMarkdown", "Headers", "Writing Functions","Reporting"] 
 output:
   #github_document:
   #download_code: true
