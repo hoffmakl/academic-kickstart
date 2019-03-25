@@ -106,7 +106,7 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](academic-kickstart/content/post/headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 [[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
