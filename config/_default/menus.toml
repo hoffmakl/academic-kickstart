@@ -3,25 +3,6 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "About"
-  url = "#about"
-  weight = 10
-  
-[[main]]
-  name = "Research"
-  url = "#experience"
-  weight = 15
-  
-[[main]]
-  name = "Tutorials"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Blog"
-  url = "#blog"
-  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
