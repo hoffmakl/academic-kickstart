@@ -106,9 +106,9 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](figure-markdown_github/unnamed-chunk-4-1.png)<!-- -->
 [[1]][[2]]
-![](figure-html/unnamed-chunk-4-2.png)<!-- -->
+![](figure-markdown_github/unnamed-chunk-4-2.png)<!-- -->
 
 
 ##Regression Model
@@ -130,9 +130,9 @@ runManyFuns(dat2)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](figure-html/unnamed-chunk-4-3.png)<!-- -->
+![](figure-markdown_github/unnamed-chunk-4-3.png)<!-- -->
 [[1]][[2]]
-![](figure-html/unnamed-chunk-4-4.png)<!-- -->
+![](figure-markdown_github/unnamed-chunk-4-4.png)<!-- -->
 
 
 ##Regression Model
