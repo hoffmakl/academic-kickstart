@@ -10,5 +10,5 @@ view = 2
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "Rstats Tutorial: A function to output Rmarkdown friendly analysis results"
+caption = ""
 +++
