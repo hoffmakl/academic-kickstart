@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Extra"
@@ -37,3 +37,12 @@ hero_media = ""
 +++
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+ Outside of work, I enjoy visiting the many museums in NYC, listening to podcasts (and Harry Potter audiobooks), running and hiking, going to concerts, playing sports, and talking on the phone with my family and friends in Michigan.
+
+During my four years in undergrad, I wrote a thesis called “...”. I also pitched and played outfield for my school’s Division I softball team. I am thankful for the teammates and coaches who helped shape me into the person I am today.
+
+Thanks for checking out my website. Please feel free to reach out with any suggestions regarding content or layout!
+
+All the best,
+Kat
