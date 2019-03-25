@@ -7,8 +7,8 @@ categories: ["R"]
 external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
 tags: ["RMarkdown", "Headers", "Writing Functions","Reporting"] 
 output:
-  #github_document:
-  #download_code: true
+  github_document:
+  download_code: true
   html_document:
     keep_md: true
 
