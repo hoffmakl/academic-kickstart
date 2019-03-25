@@ -35,48 +35,6 @@ summary = "Dedicated to my 22 year-old self who didn't know what she wanted to b
 
 # Set captions for image gallery.
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-default.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-forest.png"
-caption = "Forest"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-apogee.png"
-caption = "Apogee"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-1950s.png"
-caption = "1950s"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-cupcake.png"
-caption = "Cupcake"
-+++
-
-
 
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
 
