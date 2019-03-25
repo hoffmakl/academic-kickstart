@@ -74,7 +74,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful research.
+Hello! I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful research.
 
 Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career statistician in mind.
-
