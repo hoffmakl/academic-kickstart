@@ -4,7 +4,7 @@ author: "Katherine Hoffman, M.S."
 date: "March 5, 2019"
 categories: ["R"]
 external_link: "https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html"
-tags: ["R Markdown", "plot", "regression"] 
+tags: ["dplyr", "Data Cleaning"] 
 output:
   #github_document:
   #download_code: true
@@ -13,4 +13,4 @@ output:
 
 ---
 
-# See the resource I presented at WCM's Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
+## See the resource I created and presented at WCM's Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
