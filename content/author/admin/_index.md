@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Katherine Hoffman"
+name = "Katherine Hoffman, M.S."
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -73,4 +73,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful research. I also enjoy writing and teaching, so I've put together some resources with the audience of a student or early career statistician in mind.
+I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful research. I also enjoy writing and teaching, so I've put together some resources here with the audience of a student or early career statistician in mind.
