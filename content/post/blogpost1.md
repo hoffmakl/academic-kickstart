@@ -13,6 +13,6 @@ output:
     keep_md: true
 
 You can view the presentation and resource I made for WCM's Computing Club [here]
-("https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html)
+("https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html")
 
 ---
