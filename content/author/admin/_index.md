@@ -23,10 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Statistical Methods",
   "Reproducibility",
-  "Cancer Biology",
-  "Neurological Disorders"
+  "Computational Art",
+  "Learning new languages [Human & Computer]"
 ]
 
 # Organizational groups that you belong to (for People widget)
