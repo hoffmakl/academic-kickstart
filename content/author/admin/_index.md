@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Katherine Hoffman, M.S."
+name = "Nelson Bighetti"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,25 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Biostatistician I"
+role = "Professor of Artificial Intelligence"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Weill Cornell Medicine", url = "" } ]
+organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I enjoy the intersection of math, medicine, and meaningful research."
+bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Statistical Methods",
-  "Reproducibility",
-  "Data Visualization",
-  "Cancer Biology",
-  "Neurological Disorders"
+  "Artificial Intelligence",
+  "Computational Linguistics",
+  "Information Retrieval"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -36,14 +34,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MS in Biostatistics"
-  institution = "University of Michigan"
-  year = 2018
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "BS in Biochemistry"
-  institution = "University of Detroit Mercy"
-  year = 2015
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -53,17 +56,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:kathoffman317@gmail.com"  #For a direct email link, use "mailto:kathoffman317@gmail.com".
+  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/Kat_Stats"
+  link = "https://twitter.com/GeorgeCushen"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/hoffmakl"
+  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,6 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful research.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Here you will find a bit about me, my research, and some resources I've put together with the audience of a student or early career statistician in mind.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
