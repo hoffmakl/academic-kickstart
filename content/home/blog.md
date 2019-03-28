@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Blog"
-subtitle = "Musings of an early career biostatistician"
+subtitle = "Musings of an early career statistician"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
