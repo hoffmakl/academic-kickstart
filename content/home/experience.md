@@ -34,6 +34,11 @@ date_format = "Jan 2006"
   * Visualizing data and analysis results
   * Writing methods and results sections for manuscripts
   
+  Current collaborations:
+  
+  * Alzheimer's Disease prevention research with WCM neurologist Dr. Lisa Mosconi
+  * Pulmonary diseases and ICU outcomes with WCM's Division of Pulmonary and Critical Care Medicine
+  
   Additional roles:
   
   * Teaching Assistant for MS-level courses:
