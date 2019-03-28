@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   
   [Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
   
-  * Contributed to lab's goal of creating a more accurate reference genome for dogs by executing and evaluating methods for detecting chromosomal inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
+  * Contributed to lab's goal of creating a more accurate reference genome for dogs by executing and evaluating methods for detecting chromosomal inversions e.g. pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
   
   [Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
   
