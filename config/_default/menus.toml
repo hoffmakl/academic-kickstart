@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Tutorials"
-  url = "/tutorial/"
+  url = "#posts"
   weight = 50
  
 
