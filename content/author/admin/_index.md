@@ -25,8 +25,8 @@ email = ""
 interests = [
   "Statistical Methods",
   "Data Visualization",
+  "Neurological Disorders",
   "Cancer Biology",
-  "Neurological Disorders"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -73,4 +73,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful research. I also enjoy writing and teaching, so I've put together some resources here with the audience of a student or early career statistician in mind.
+I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about the intersection of math, medicine, and meaningful research. I also enjoy writing, and I've put together some resources here with the audience of a student or early career statistician in mind.
