@@ -54,21 +54,15 @@ date_format = "Jan 2006"
   date_end = "2018-04-24"
   description = """[Peter Song's Biostatistics Lab](http://www.umich.edu/~songlab/)
   
-  * Collected, maintained, and created visualizations on air pollution levels and end stage renal failure patients in the U.S. and Eastern China in preparation for a geospatial association study.
-
-  * Presented database and methods plan at Shanghai Jiao Tong University as part of a UM-SJTU kickoff nephrology research conference.
+  * Set up, maintained, and descriptively analyzed a national database on air pollution and end stage renal failure incidence at the U.S. county level in preparation for a longitudinal geospatial association study in collaboration with Shanghai Jiao Tong University.
   
   [Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
   
-  * Used Python, UNIX, and high performance computing cluster to assist in creating a more accurate reference dog genome.
-  
-  * Ran and evaluated methods for finding chromosomal inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis.  
+  * Assisted lab in creating a more accurate reference genome for dogs by executing and evaluating methods for detecting chromosomal inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
   
   [Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
   
-  * Created functions in R to clean, summarize, and create visualizations of large data sets of fruit fly feeding behaviors.
-  
-  * Debugged and maintained MATLAB GUI designed to output imaging data statistics for neuronal firing patterns of fruit flies.
+  * Created pipelines in R for neuroscience researchers to clean, summarize, and create visualizations of their large data sets of Drosophila feeding behaviors and neuronal imaging patterns.
   
   """
 
