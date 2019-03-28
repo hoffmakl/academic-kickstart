@@ -54,11 +54,11 @@ date_format = "Jan 2006"
   date_end = "2018-04-24"
   description = """[Peter Song's Biostatistics Lab](http://www.umich.edu/~songlab/)
   
-  * Set up, maintained, and descriptively analyzed a national database on air pollution and end stage renal failure incidence at the U.S. county level in preparation for a longitudinal geospatial association study in collaboration with Shanghai Jiao Tong University.
+  * Set up, maintained, and descriptively analyzed a national database on air pollution and renal failure incidence at the U.S. county level in preparation for a longitudinal geospatial association study in collaboration with Shanghai Jiao Tong University.
   
   [Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
   
-  * Assisted lab in creating a more accurate reference genome for dogs by executing and evaluating methods for detecting chromosomal inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
+  * Contributed to lab's goal of creating a more accurate reference genome for dogs by executing and evaluating methods for detecting chromosomal inversions such as pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
   
   [Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
   
