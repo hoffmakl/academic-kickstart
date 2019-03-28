@@ -74,3 +74,5 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful, reproducible research.
+
+Prior to becoming a statistician, I worked night shifts as a patient care technician, played Division I softball, and wrote my [undergraduate thesis](http://dspace.udmercy.edu:8080/bitstream/handle/10429/777/Hoffman_UDMHonorsThesis.pdf?sequence=1) on artists' portrayal of mental illness.
