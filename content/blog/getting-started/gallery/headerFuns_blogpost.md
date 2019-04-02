@@ -8,8 +8,7 @@ output:
   #github_document:	
   #download_code: true	
   html_document:	
-    keep_md: true	
-    
+    keep_md: true	 
  ---
 
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
