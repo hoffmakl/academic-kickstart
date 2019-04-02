@@ -4,9 +4,7 @@ author: "Katherine Hoffman, M.S."
 date: 2019-03-21	
 categories: ["R"]	
 tags: ["R Markdown", "plot", "regression"] 	
-
-
- ---	
+---	
 
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 When doing long, identical analyses on different data sets or variables, it can be useful to have one function which outputs your analyses in an Rmarkdown friendly (ie., with headers) format.
