@@ -108,7 +108,7 @@ runManyFuns(dat1)
 [[1]][[1]]
 <img src="headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png">
 [[1]][[2]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
+![](unnamed-chunk-4-2.png)<!-- -->
 
 
 ##Regression Model
