@@ -1,7 +1,16 @@
-Outputting Headers within Functions
-================
-Katherine Hoffman, M.S.
-2019-03-21
+---	
+title: "Outputting Headers within Functions"	
+author: "Katherine Hoffman, M.S."	
+date: 2019-03-21	
+categories: ["R"]	
+tags: ["R Markdown", "plot", "regression"] 	
+output:	
+  #github_document:	
+  #download_code: true	
+  html_document:	
+    keep_md: true	
+
+ ---	
 
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 When doing long, identical analyses on different data sets or variables, it can be useful to have one function which outputs your analyses in an Rmarkdown friendly (ie., with headers) format.
