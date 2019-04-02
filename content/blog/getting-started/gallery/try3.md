@@ -1,5 +1,5 @@
 ---
-title: "Outputting Headers within Functions 2nd try"
+title: "Outputting Headers within Functions 3 try"
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 external_link: "https://github.com/hoffmakl/academic-kickstart/headerFuns_blogpost.html"
