@@ -1,5 +1,5 @@
 ---
-title: "Outputting Headers within Functions"
+title: "Outputting Headers within Functions 2nd try"
 author: "Katherine Hoffman, M.S."
 date: 2019-03-21
 categories: ["R"]
@@ -106,7 +106,7 @@ runManyFuns(dat1)
 ##Distributions
 [[1]]
 [[1]][[1]]
-![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+<img src="headerFuns_blogpost_files/figure-html/unnamed-chunk-4-1.png">
 [[1]][[2]]
 ![](headerFuns_blogpost_files/figure-html/unnamed-chunk-4-2.png)<!-- -->
 
