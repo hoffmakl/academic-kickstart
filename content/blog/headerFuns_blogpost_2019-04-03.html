@@ -154,12 +154,14 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Outputting Headers within Functions</h1>
 <h4 class="author"><em>Katherine Hoffman, M.S.</em></h4>
-<h4 class="date"><em>3/23/2019</em></h4>
+<h4 class="date"><em>April 4, 2019</em></h4>
 
 </div>
 
 <div id="TOC">
 <ul>
+<li><a href="#background">Background</a><ul>
+<li><a href="#build-function">Building Your Function</a><ul>
 <li><a href="#data-dat1">Data: dat1</a><ul>
 <li><a href="#distributions">Distributions</a></li>
 <li><a href="#regression-model">Regression Model</a></li>
@@ -171,6 +173,9 @@ $(document).ready(function () {
 </ul>
 </div>
 
+<div id="background" class="section level1">
+<h1>Background</h1>  
+  
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 <p>When doing long, identical analyses on different data sets or variables, it can be useful to have one function which outputs your analyses in an Rmarkdown friendly (ie., with headers) format.</p>
 <p>This is a simple example of how multiple mini-analyses can be combined into one run-all function containing headers.</p>
@@ -180,12 +185,12 @@ $(document).ready(function () {
 <li>Run and report a regression model, <code>y</code> ~ <code>x</code></li>
 </ol>
 <p>We want whoever is receiving our report to be able to click on each sub-analysis in our table of contents.</p>
-<p>Let’s start by creating our data sets:</p>
+<div id="build-function" class="section level1">
+<h1>Building Your Function</h1>  
+<p>Let’s start by setting up our Rmd chunks, loading our libraries, and creating our data sets:</p>
 <pre class="r"><code>knitr::opts_chunk$set(echo=T, results=&quot;asis&quot;, warning=F, message=F)
 
-library(ggplot2)
-library(magrittr)
-library(htmltools)
+library(tidyverse)
 
 set.seed(7)
 dat1 &lt;- data.frame(x=rnorm(50),y=rnorm(50))
