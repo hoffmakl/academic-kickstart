@@ -160,8 +160,11 @@ $(document).ready(function () {
 
 <div id="TOC">
 <ul>
-<li><a href="#background">Background</a><ul>
-<li><a href="#build-function">Building Your Function</a><ul>
+<li><a href="#background">Background</a>
+  </ul></li>
+  <ul>
+<li><a href="#build-function">Build Your Function</a></ul></li><ul>
+<li><a href="#run-function">Run Your Function</a><ul>
 <li><a href="#data-dat1">Data: dat1</a><ul>
 <li><a href="#distributions">Distributions</a></li>
 <li><a href="#regression-model">Regression Model</a></li>
@@ -186,7 +189,7 @@ $(document).ready(function () {
 </ol>
 <p>We want whoever is receiving our report to be able to click on each sub-analysis in our table of contents.</p>
 <div id="build-function" class="section level1">
-<h1>Building Your Function</h1>  
+<h1>Build Your Function</h1>  
 <p>Let’s start by setting up our Rmd chunks, loading our libraries, and creating our data sets:</p>
 <pre class="r"><code>knitr::opts_chunk$set(echo=T, results=&quot;asis&quot;, warning=F, message=F)
 
@@ -233,6 +236,8 @@ xRegFun &lt;- function(dat){
 }</code></pre>
 <p>This new function allows us to run and report our identical analyses on both <code>dat1</code> and <code>dat2</code> in a clean and concise way.</p>
 <p>I have not yet figured out how to get rid of the [[1]] numbers signifying the elements of my list. I hope to utilize the <code>htmltools</code> package to get rid of these eventually.</p>
+<div id="run-function" class="section level1">
+<h1>Run Your Function</h1>  
 <pre class="r"><code># Run same analysis on different data sets, outcomes, etc.
 runManyFuns(dat1)</code></pre>
 <div id="data-dat1" class="section level1">
