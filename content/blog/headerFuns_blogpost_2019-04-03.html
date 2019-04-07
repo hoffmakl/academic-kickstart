@@ -11,33 +11,6 @@ excerpt: "Create organized Rmarkdown output for long, identical analyses of diff
 ---
 
 
-<div class="fluid-row" id="header">
-
-
-
-<h1 class="title toc-ignore">Outputting Headers within Functions</h1>
-<h4 class="author"><em>Katherine Hoffman, M.S.</em></h4>
-<h4 class="date"><em>April 4, 2019</em></h4>
-
-</div>
-
-<div id="TOC">
-<ul><li><a href="#background">Background</a></li>
-<li><a href="#build-function">Build Your Function</a></li>
-<li><a href="#run-function">Run Your Function</a>
-<ul><li><a href="#data-dat1">Data: dat1</a><ul>
-<li><a href="#distributions">Distributions</a></li>
-<li><a href="#regression-model">Regression Model</a></li>
-</ul></li>
-<li><a href="#data-dat2">Data: dat2</a><ul>
-<li><a href="#distributions-1">Distributions</a></li>
-<li><a href="#regression-model-1">Regression Model</a></li>
-</ul></li>
-</ul>
-</div>
-
-<div id="background" class="section level1">
-<h1>Background</h1>  
   
 <!-- **The code to create this document in Rmarkdown can be downloaded by clicking the upper right-hand corner button that says `Code`.** -->
 <p>When doing long, identical analyses on different data sets or variables, it can be useful to have one function which outputs your analyses in an Rmarkdown friendly (ie., with headers) format.</p>
@@ -49,7 +22,6 @@ excerpt: "Create organized Rmarkdown output for long, identical analyses of diff
 </ol>
 <p>We want whoever is receiving our report to be able to click on each sub-analysis in our table of contents.</p>
 <div id="build-function" class="section level1">
-<h1>Build Your Function</h1>  
 <p>Let’s start by setting up our Rmd chunks, loading our libraries, and creating our data sets:</p>
 <pre class="r"><code>knitr::opts_chunk$set(echo=T, results=&quot;asis&quot;, warning=F, message=F)
 
@@ -97,7 +69,6 @@ xRegFun &lt;- function(dat){
 <p>This new function allows us to run and report our identical analyses on both <code>dat1</code> and <code>dat2</code> in a clean and concise way.</p>
 <p>I have not yet figured out how to get rid of the [[1]] numbers signifying the elements of my list. I hope to utilize the <code>htmltools</code> package to get rid of these eventually.</p>
 <div id="run-function" class="section level1">
-<h1>Run Your Function</h1>  
 <pre class="r"><code># Run same analysis on different data sets, outcomes, etc.
 runManyFuns(dat1)</code></pre>
 <div id="data-dat1" class="section level1">
