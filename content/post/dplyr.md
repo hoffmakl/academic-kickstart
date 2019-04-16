@@ -9,4 +9,4 @@ categories: [R]
 tags: [R, dplyr, "data wrangling"]
 ---
 
-Find the presentation I gave at the Weill Cornell Medicine Biostatistics Computing Club [here]("https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html").
+See the presentation I gave at the Weill Cornell Medicine Biostatistics Computing Club [here](https://wcm-computing-club.github.io/file_slides/201903_Hoffman_dplyr.html).
