@@ -26,7 +26,7 @@ interests = [
   "Statistical Methods",
   "Data Visualization",
   "Neurological Disorders",
-  "Cancer Biology",
+  "Cancer Biology"
 ]
 
 # Organizational groups that you belong to (for People widget)
