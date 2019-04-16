@@ -43,7 +43,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 preserveTaxonomyNames = true
 
 [permalinks]
-    post = "/:slug"
+    post = "/tutorials/:slug"
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
