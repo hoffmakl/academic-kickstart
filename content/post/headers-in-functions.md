@@ -1,5 +1,5 @@
 ---
-title: Outputting Headers within Functions
+title: Outputting Rmarkdown Headers within Functions
 author: Katherine Hoffman
 date: 2019-04-16
 draft: false
