@@ -24,19 +24,15 @@ excerpt: "Create organized Rmarkdown output for long, identical analyses of diff
 <div id="build-function" class="section level1">
 <p>Let’s start by setting up our Rmd chunks, loading our libraries, and creating our data sets:</p>
 <pre class="r"><code>knitr::opts_chunk$set(echo=T, results=&quot;asis&quot;, warning=F, message=F)
-
 library(tidyverse)
-
 set.seed(7)
 dat1 &lt;- data.frame(x=rnorm(50),y=rnorm(50))
 dat2 &lt;- data.frame(x=rnorm(500),y=rnorm(500))</code></pre>
 <p>We can then make a few mini functions which will carry out each analysis.</p>
 <pre class="r"><code>xDistFun &lt;- function(dat){
   ggplot(dat, aes(x)) + geom_histogram(fill=&quot;blue&quot;)}
-
 yDistFun &lt;- function(dat){
   ggplot(dat, aes(y)) + geom_histogram(fill=&quot;red&quot;)}
-
 xRegFun &lt;- function(dat){
   lm(y ~ x, data=dat) %&gt;% broom::tidy() %&gt;% knitr::kable()}</code></pre>
 <p>Finally, we’ll organize these mini functions into one function which will run all our analyses and nicely organize them into Rmarkdown friendly output.</p>
