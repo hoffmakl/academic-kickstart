@@ -1,7 +1,7 @@
 ---
 title: Outputting Headers within Functions
 author: Katherine Hoffman
-date: 'April 2, 2019'
+date: 2019-04-16
 draft: false
 slug: headers-in-functions
 external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
