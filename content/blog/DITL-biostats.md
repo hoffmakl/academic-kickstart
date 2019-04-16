@@ -1,3 +1,13 @@
+---
+title: A Day in the Life of a Biostatistician
+author: Katherine Hoffman
+date: "April 2019"
+draft: false
+slug: DITL-biostats
+tags: ["day in the life", biostatistics, career]
+
+---
+
 
 
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
