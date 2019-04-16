@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "MS in Biostatistics"
-  institution = "Unviersity of Michigan"
+  institution = "University of Michigan"
   year = 2018
 
 [[education.courses]]
