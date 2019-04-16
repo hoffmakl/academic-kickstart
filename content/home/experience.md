@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   * Teaching Assistant for MS-level courses:
   
      * Biostatistics II (GLMs, Survival Analysis) - Winter 2019
-     * Causal Inference - Spring/Summer 2019
+     * Modern Methods for Causal Inference - Spring/Summer 2019
      
   * Contributor to WCM Biostatistics Computing Club
   
