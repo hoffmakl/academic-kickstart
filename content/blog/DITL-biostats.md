@@ -2,7 +2,7 @@
 title: A Day in the Life of a Biostatistician
 author: Katherine Hoffman
 date: "April 2019"
-draft: true
+draft: false
 slug: DITL-biostats
 tags: ["day in the life", biostatistics, career]
 
@@ -24,7 +24,7 @@ and family did. So, I was often alone and awake, with a lot of time to
 think about my future… and surf the web for potential careers.
 
 <center>
-<img src="sadcat.png" height="300" width="200"/>
+<img src="https://github.com/hoffmakl/khoffman_website/edit/master/content/blog/sadcat.png" height="300" width="200"/>
 </center>
 I knew I wanted a job in healthcare, but I was confused as to where in
 medicine would be a good fit for me. I could visualize very clearly what
