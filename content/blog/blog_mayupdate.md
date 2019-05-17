@@ -17,7 +17,8 @@ I’ll back up for a second. A few years ago I was a recent college graduate, an
 
 I was working full-time night-shift at a hospital as a patient care technician. The key word in that sentence is “night-shift” which meant that even on my days off, I didn’t sleep at night, but all my friends and family did. So, I was often alone and awake, with a lot of time to think about my future… and surf the web for potential careers.
 
-<img src="/sadcat.png" height="300" width="200"/>
+<img src="sadcat.png" height="300" width="200"/>
+
 I knew I wanted a job in healthcare, but I was confused as to where in medicine would be a good fit for me. I could visualize very clearly what my days at work would look like if I were to become a physician, or a physician assistant, or a registered nurse (all careers I developed lengthy pros and cons lists for).
 
 However, there was another career involving medicine that I was drawn to but didn’t know enough about. “Biostatistics” was a class biochemistry majors took at my university, but I had been exempted because I took AP Statistics in high school.
@@ -78,6 +79,7 @@ I close the report; I will continue working on this analysis tomorrow.
 6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), voleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
 <img src="coworkers.jpg" height="250" width="300"/>
+![alt text](https://github.com/hoffmakl/khoffman_website/content/blog/coworkers.jpg "Logo Title Text 1")
 
 ...So, there you have it. One average daily experience as an early career masters-level statistician. All in all, I have a fantastic work-life balance and overall work environment. Every day I get to learn more about science, medicine, statistics, and the intersection of these wonderful ideas. Although it varies quite a bit, approximately 10% of each day involves writing, 20% interacting with other researchers, and the rest of it is spent thinking critically and finding answers to problems I am passionate about.
 
