@@ -9,8 +9,8 @@ tags: [biostatistician, career]
 excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
 ---
 
-<span style="font-size: 2em;">
-
+<font size="2">
+  
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
 
 I’ll back up for a second. A few years ago I was a recent college graduate, and trying hard to “figure out my life.” My major was biochemistry, which is one of those degrees where 99%\* of people just keep on going to school.
@@ -91,4 +91,4 @@ Kat
 
 \*\*Exact details and diseases of the studies I am currently working on have been generalized or altered to protect the research interests of my collaborators.
 
-</span>
+</font>
