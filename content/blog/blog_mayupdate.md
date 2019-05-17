@@ -30,7 +30,7 @@ I ultimately lucked out during a conversation with a professor during my senior 
 I feel wholeheartedly that although I would have enjoyed my life as an MD/PA/RN, biostatistics is the right career for me. So, in honor of my confused younger self, and as a way of paying it forward, I’ve dedicated this topic for my very first blog post!
 
 <figure>
-<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/maz.jpg" alt="ma">
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/maz.jpg" alt="ma" width="350px" height="500px" >
 <figcaption>Hanging out post-night shift with my mom at the start of her day (she's been an RN for 41 years!). At one point I was 100% sure I would have a career in direct patient care.</figcaption>
 </figure>
 
