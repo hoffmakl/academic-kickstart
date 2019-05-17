@@ -2,7 +2,7 @@
 title: A Day in the Life of a Biostatistician
 author: Katherine Hoffman
 date: 2019-04-16
-draft: false
+draft: true
 slug: ditl-biostats
 categories: [Rmarkdown]
 tags: [biostatistician, career]
