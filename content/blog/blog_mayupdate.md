@@ -79,7 +79,7 @@ I close the report; I will continue working on this analysis tomorrow.
 6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), voleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
 <img src="coworkers.jpg" height="250" width="300"/>
-![alt text](https://github.com/hoffmakl/khoffman_website/content/blog/coworkers.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png "Logo Title Text 1")
 
 ...So, there you have it. One average daily experience as an early career masters-level statistician. All in all, I have a fantastic work-life balance and overall work environment. Every day I get to learn more about science, medicine, statistics, and the intersection of these wonderful ideas. Although it varies quite a bit, approximately 10% of each day involves writing, 20% interacting with other researchers, and the rest of it is spent thinking critically and finding answers to problems I am passionate about.
 
