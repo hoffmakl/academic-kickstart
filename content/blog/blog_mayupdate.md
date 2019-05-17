@@ -19,7 +19,7 @@ I was working full-time night-shift at a hospital as a patient care technician. 
 
 ![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png "Logo Title Text 1")
 
-<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png" width="450px" height="600px" alt="cat">
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png" width="350px" height="500px" alt="cat">
 I knew I wanted a job in healthcare, but I was confused as to where in medicine would be a good fit for me. I could visualize very clearly what my days at work would look like if I were to become a physician, or a physician assistant, or a registered nurse (all careers I developed lengthy pros and cons lists for).
 
 However, there was another career involving medicine that I was drawn to but didn’t know enough about. “Biostatistics” was a class biochemistry majors took at my university, but I had been exempted because I took AP Statistics in high school.
