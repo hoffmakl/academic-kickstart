@@ -17,10 +17,8 @@ I’ll back up for a second. A few years ago I was a recent college graduate, an
 
 I was working full-time night-shift at a hospital as a patient care technician. The key word in that sentence is “night-shift” which meant that even on my days off, I didn’t sleep at night, but all my friends and family did. So, I was often alone and awake, with a lot of time to think about my future… and surf the web for potential careers.
 
-<figure>
 <img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png" width="375px" height="500px" alt="cat">
-<figcaption>Too real...</figcaption>
-</figure>
+
 I knew I wanted a job in healthcare, but I was confused as to where in medicine would be a good fit for me. I could visualize very clearly what my days at work would look like if I were to become a physician, or a physician assistant, or a registered nurse (all careers I developed lengthy pros and cons lists for).
 
 However, there was another career involving medicine that I was drawn to but didn’t know enough about. “Biostatistics” was a class biochemistry majors took at my university, but I had been exempted because I took AP Statistics in high school.
@@ -30,6 +28,11 @@ To me, biostatistics seemed to be the application of some high school-level math
 I ultimately lucked out during a conversation with a professor during my senior year of college. I was rambling about my many life plans and he mentioned his cousin was the chair of a well-known Biostatistics program. He encouraged me to email her my questions about biostatistics, and I will forever be grateful she took time to respond with detailed answers. Her description of life as a biostatistician was enough for me to choose going to graduate school for an MS in biostatistics over medical school/physician assistant school/second-degree nursing.
 
 I feel wholeheartedly that although I would have enjoyed my life as an MD/PA/RN, biostatistics is the right career for me. So, in honor of my confused younger self, and as a way of paying it forward, I’ve dedicated this topic for my very first blog post!
+
+<figure>
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/ma.jpg" alt="ma">
+<figcaption>Hanging out post-night shift with my mom at the start of her day (she's been an RN for 41 years!). At one point I was 100% sure I would have a career in direct patient care.</figcaption>
+</figure>
 
 A full disclaimer - what follows is a day in the life of one masters-level, academic research-focused biostatistician and I cannot make claims about the careers of statisticians in industry or pharmaceuticals or hospitals or government. In addition, here’s a bit more background before I get into the granular details of my work:
 
