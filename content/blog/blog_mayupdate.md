@@ -3,7 +3,7 @@ title: A Day in the Life of a Biostatistician
 author: Katherine Hoffman
 date: 2019-04-16
 draft: false
-slug: headers-in-functions
+slug: ditl-biostats
 categories: [Rmarkdown]
 tags: [R, Rmarkdown, "headers in functions"]
 excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
