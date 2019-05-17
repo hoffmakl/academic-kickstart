@@ -75,6 +75,8 @@ I close the report; I will continue working on this analysis tomorrow.
 
 5:00PM The doctors arrive and, after introductions, we talk about the current stage of the project and what the goals are. We discuss the timing of starting chart reviews of patients, how we will upload the information to a database efficiently, and what might be the best way to condense the highly detailed genetics data into useful information for an analysis. Our solution will likely involve a series of iterative searches through the columns containing genetic information.
 
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/redcap.png" alt="ma"width="500px" height="375px" >
+
 6:00PM The meeting ends, and I go back to my desk to record more handwritten notes. I log the hours I spent on each project that day into Toggl, which is the time-tracking application our team uses. This is so we know how much time we’re spending on each project, and is as much for our own sake as it is anyone else’s. I update my to-do list, which is a giant color-coded excel spreadsheet, and eat a few chocolate covered raisins as my reward for a productive day.
 
 6:30PM I leave work! I typically have some kind of activity, like happy hour (see my cute cubicle buddies below), a sports game, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
