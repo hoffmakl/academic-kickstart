@@ -39,7 +39,8 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 
 So, without further ado! An average day\*\*:
 
-![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png width="500px" height="375px" alt="desk" )
+
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png" width="500px" height="375px" alt="desky">
 
 9:30AM - I arrive at my office and spend a few minutes chatting with my coworkers. To set the scene for you, I have a fairly spacious cubicle within a group of five other cubicles. I sit next to another research biostatistician, two health informatics professionals, and two clinical trial grant specialists. I’m actually not completely sure what that last pair’s title is, but I know their primary task is to make sure several multi-million dollar clinical trial grants stay funded (woah). Everyone I sit by is young and goofy, but very driven, making for a fun office environment.
 
@@ -81,7 +82,7 @@ I close the report; I will continue working on this analysis tomorrow.
 
 6:30PM I leave work! I typically have some kind of activity, like happy hour (see my cute cubicle buddies below), a sports game, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
-![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/coworkers.jpg" width="400px" height="300px" "Logo Title Text 1")
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/coworkers.jpg" width="500px" height="375px" alt="cowies">
 
 ...So, there you have it. One average daily experience as an early career masters-level statistician. All in all, I have a fantastic work-life balance and overall work environment. Every day I get to learn more about science, medicine, statistics, and the intersection of these wonderful ideas. Although it varies quite a bit, approximately 10% of each day involves writing, 20% interacting with other researchers, and the rest of it is spent thinking critically and finding answers to problems I am passionate about.
 
