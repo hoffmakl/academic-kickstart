@@ -28,7 +28,7 @@ I ultimately lucked out during a conversation with a professor during my senior 
 
 I feel wholeheartedly that although I would have enjoyed my life as an MD/PA/RN, biostatistics is the right career for me. So, in honor of my confused younger self, and as a way of paying it forward, I’ve dedicated this topic for my very first blog post!
 
-<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/ma_caption2.png" alt="ma">
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/ma_caption2.png" alt="ma"width="400px" height="400px" >
 
 
 A full disclaimer - what follows is a day in the life of one masters-level, academic research-focused biostatistician and I cannot make claims about the careers of statisticians in industry or pharmaceuticals or hospitals or government. In addition, here’s a bit more background before I get into the granular details of my work:
