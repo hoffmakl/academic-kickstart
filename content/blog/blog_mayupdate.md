@@ -9,6 +9,7 @@ tags: [R, Rmarkdown, "headers in functions"]
 excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
 ---
 
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
 
