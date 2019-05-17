@@ -1,11 +1,10 @@
 ---
 title: A Day in the Life of a Biostatistician
 author: Katherine Hoffman
-date: 2019-04-16
+date: 2019-05-18
 draft: false
 slug: ditl-biostats
 tags: [biostatistician, career]
-excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
 ---
 
 <font size="4">
@@ -92,7 +91,7 @@ All the best,
 
 Kat
 
-\*not a reproducible statistic - I completely made it up
+\*Not a real statistic
 
 \*\*Exact details and diseases of the studies I am currently working on have been generalized or altered to protect the research interests of my collaborators.
 
