@@ -39,7 +39,7 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 
 So, without further ado! An average day\*\*:
 
-![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png width="500px" height="375px" )
 
 9:30AM - I arrive at my office and spend a few minutes chatting with my coworkers. To set the scene for you, I have a fairly spacious cubicle within a group of five other cubicles. I sit next to another research biostatistician, two health informatics professionals, and two clinical trial grant specialists. I’m actually not completely sure what that last pair’s title is, but I know their primary task is to make sure several multi-million dollar clinical trial grants stay funded (woah). Everyone I sit by is young and goofy, but very driven, making for a fun office environment.
 
