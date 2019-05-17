@@ -47,7 +47,7 @@ So, without further ado! An average day\*\*:
 
 The researchers have asked for my assistance in writing the methods section. The methods section of a scientific article is the steps the scientists took to analyze data explicitly written out for anyone looking to review or learn about their work. I read through their current draft of the paper carefully, make some edits, and send it back. They are hoping to submit this paper to a peer-reviewed journal within a few weeks.
 
-<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/KM.png" width="500px" height="300px" alt="cat">
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/KM.png" width="600px" height="400px" alt="cat">
 
 10:45AM - I have a weekly meeting a few blocks from my office with a neurologist I spend a large portion of my time working with. She is a leader in the field of Alzheimer’s research, and I find it very rewarding to work on her data and be a small part of a growing body of research in the field. I am “contracted” out to her research as I am to all of the researchers I work with—it’s how my institution budgets funding for grants. One of the faculty-level biostatisticians in my department—which means he has a PhD and specializes in certain statistical methods—is also part of this contract, and some days (like today) he joins me at these meetings.
 
