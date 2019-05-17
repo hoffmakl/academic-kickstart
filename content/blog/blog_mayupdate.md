@@ -1,7 +1,15 @@
-A Day in the Life of a Biostatistician
-================
-Katherine Hoffman, MS
-5/13/2019
+---
+title: Outputting Rmarkdown Headers within Functions
+author: Katherine Hoffman
+date: 2019-04-16
+draft: false
+slug: headers-in-functions
+external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
+categories: [Rmarkdown]
+tags: [R, Rmarkdown, "headers in functions"]
+excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
+---
+
 
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
 
@@ -30,9 +38,8 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 
 So, without further ado! An average day\*\*:
 
-<center>
 <img src="desk.png" height="250" width="300"/>
-</center>
+
 9:30AM - I arrive at my office and spend a few minutes chatting with my coworkers. To set the scene for you, I have a fairly spacious cubicle within a group of five other cubicles. I sit next to another research biostatistician, two health informatics professionals, and two clinical trial grant specialists. I’m actually not completely sure what that last pair’s title is, but I know their primary task is to make sure several multi-million dollar clinical trial grants stay funded (woah). Everyone I sit by is young and goofy, but very driven, making for a fun office environment.
 
 9:45AM - I check and answer new emails from researchers I collaborate on projects with. I send my availability for a meeting to a group of doctors who want to go over the results of a recent analysis I did on Body Mass Index and death rates in the Intensive Care Unit. In a different thread of emails, I thank several researchers from another university for clarifying their methods and sending me code for an analysis similar to one I will soon work on.
@@ -47,10 +54,9 @@ The researchers have asked for my assistance in writing the methods section. The
 
 12:00PM - I head to lunch with a group of coworkers. They have gotten food from a nearby salad place, and we sit in one of our favorite buildings on campus and eat together. Our jokes oscillate from incredibly nerdy to pretty stupid.
 
-<center>
 <video width="200" height="300" id="sampleMovie1" src="IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
-</center>
+
 12:45PM - I get back to my desk and type up my handwritten notes from the neurology meeting and put them in that project’s “Notes” folder. It’s important to me that I keep track of all my meetings electronically - I fear losing my notebooks or someone else having to decipher my cursive should I ever have to pass off a project.
 
 1:00PM - I start to make a plan for a different analysis I’m working on. This project is something new for me - it involves a protein assay and data for 1000+ different protein expression levels. The researcher I’m working with wants to know which proteins are over- and under-expressed in people with a specific autoimmune disorder and a certain type of lung disease. I’ve recently spoken to some bioinformaticians and have a clearer idea of the analysis I need to do. I draw out a little map of the code organization I think would be the most efficient for this analysis and open up Rstudio.
@@ -73,9 +79,8 @@ I close the report; I will continue working on this analysis tomorrow.
 
 6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), voleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
-<center>
 <img src="coworkers.jpg" height="250" width="300"/>
-</center>
+
 ...So, there you have it. One average daily experience as an early career masters-level statistician. All in all, I have a fantastic work-life balance and overall work environment. Every day I get to learn more about science, medicine, statistics, and the intersection of these wonderful ideas. Although it varies quite a bit, approximately 10% of each day involves writing, 20% interacting with other researchers, and the rest of it is spent thinking critically and finding answers to problems I am passionate about.
 
 I hope if there are any 22, 42, or 14 year-olds out there considering a career in biostatistics and struggling to figure out what on earth we actually do, that you find this post and it lessens your confusion! Feel free to reach out to me if you have questions.
