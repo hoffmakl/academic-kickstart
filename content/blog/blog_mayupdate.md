@@ -1,5 +1,5 @@
 ---
-title: Outputting Rmarkdown Headers within Functions
+title: A Day in the Life of a Biostatistician
 author: Katherine Hoffman
 date: 2019-04-16
 draft: false
@@ -17,7 +17,7 @@ I’ll back up for a second. A few years ago I was a recent college graduate, an
 
 I was working full-time night-shift at a hospital as a patient care technician. The key word in that sentence is “night-shift” which meant that even on my days off, I didn’t sleep at night, but all my friends and family did. So, I was often alone and awake, with a lot of time to think about my future… and surf the web for potential careers.
 
-<img src="sadcat.png" height="300" width="200"/>
+![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png "Logo Title Text 1")
 
 I knew I wanted a job in healthcare, but I was confused as to where in medicine would be a good fit for me. I could visualize very clearly what my days at work would look like if I were to become a physician, or a physician assistant, or a registered nurse (all careers I developed lengthy pros and cons lists for).
 
@@ -37,7 +37,7 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 
 So, without further ado! An average day\*\*:
 
-<img src="desk.png" height="250" width="300"/>
+![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png "Logo Title Text 1")
 
 9:30AM - I arrive at my office and spend a few minutes chatting with my coworkers. To set the scene for you, I have a fairly spacious cubicle within a group of five other cubicles. I sit next to another research biostatistician, two health informatics professionals, and two clinical trial grant specialists. I’m actually not completely sure what that last pair’s title is, but I know their primary task is to make sure several multi-million dollar clinical trial grants stay funded (woah). Everyone I sit by is young and goofy, but very driven, making for a fun office environment.
 
@@ -53,7 +53,7 @@ The researchers have asked for my assistance in writing the methods section. The
 
 12:00PM - I head to lunch with a group of coworkers. They have gotten food from a nearby salad place, and we sit in one of our favorite buildings on campus and eat together. Our jokes oscillate from incredibly nerdy to pretty stupid.
 
-<video width="200" height="300" id="sampleMovie1" src="IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
+<video width="200" height="300" id="sampleMovie1" src="![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
 
 12:45PM - I get back to my desk and type up my handwritten notes from the neurology meeting and put them in that project’s “Notes” folder. It’s important to me that I keep track of all my meetings electronically - I fear losing my notebooks or someone else having to decipher my cursive should I ever have to pass off a project.
@@ -78,8 +78,7 @@ I close the report; I will continue working on this analysis tomorrow.
 
 6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), voleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
-<img src="coworkers.jpg" height="250" width="300"/>
-![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/coworkers.jpg" "Logo Title Text 1")
 
 ...So, there you have it. One average daily experience as an early career masters-level statistician. All in all, I have a fantastic work-life balance and overall work environment. Every day I get to learn more about science, medicine, statistics, and the intersection of these wonderful ideas. Although it varies quite a bit, approximately 10% of each day involves writing, 20% interacting with other researchers, and the rest of it is spent thinking critically and finding answers to problems I am passionate about.
 
