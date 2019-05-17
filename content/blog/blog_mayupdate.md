@@ -52,7 +52,7 @@ The researchers have asked for my assistance in writing the methods section. The
 
 12:00PM - I head to lunch with a group of coworkers. They have gotten food from a nearby salad place, and we sit in one of our favorite buildings on campus and eat together. Our jokes oscillate from incredibly nerdy to pretty stupid.
 
-<video width="200" height="300" id="sampleMovie1" src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
+<video width="100" height="400" id="sampleMovie1" src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
 
 12:45PM - I get back to my desk and type up my handwritten notes from the neurology meeting and put them in that project’s “Notes” folder. It’s important to me that I keep track of all my meetings electronically - I fear losing my notebooks or someone else having to decipher my cursive should I ever have to pass off a project.
