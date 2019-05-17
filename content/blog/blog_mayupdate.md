@@ -5,11 +5,11 @@ date: 2019-04-16
 draft: false
 slug: ditl-biostats
 categories: [Rmarkdown]
-tags: [R, Rmarkdown, "headers in functions"]
+tags: [biostatistician, career]
 excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
 ---
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
+<span style="font-size: 2em;">
 
 It seems fitting that my first blog post is on a topic that I tried and failed to find via Google search a few years ago.
 
@@ -90,3 +90,5 @@ Kat
 \*not a reproducible statistic - I completely made it up
 
 \*\*Exact details and diseases of the studies I am currently working on have been generalized or altered to protect the research interests of my collaborators.
+
+</span>
