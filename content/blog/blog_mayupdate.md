@@ -55,6 +55,10 @@ The researchers have asked for my assistance in writing the methods section. The
 <video width="100" height="400" id="sampleMovie1" src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
 
+![Alt Text](https://giphy.com/gifs/LpLBJQp3722X0scPgi/fullscreen)
+
+
+
 12:45PM - I get back to my desk and type up my handwritten notes from the neurology meeting and put them in that project’s “Notes” folder. It’s important to me that I keep track of all my meetings electronically - I fear losing my notebooks or someone else having to decipher my cursive should I ever have to pass off a project.
 
 1:00PM - I start to make a plan for a different analysis I’m working on. This project is something new for me - it involves a protein assay and data for 1000+ different protein expression levels. The researcher I’m working with wants to know which proteins are over- and under-expressed in people with a specific autoimmune disorder and a certain type of lung disease. I’ve recently spoken to some bioinformaticians and have a clearer idea of the analysis I need to do. I draw out a little map of the code organization I think would be the most efficient for this analysis and open up Rstudio.
