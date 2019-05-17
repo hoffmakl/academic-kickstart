@@ -18,7 +18,8 @@ I’ll back up for a second. A few years ago I was a recent college graduate, an
 I was working full-time night-shift at a hospital as a patient care technician. The key word in that sentence is “night-shift” which meant that even on my days off, I didn’t sleep at night, but all my friends and family did. So, I was often alone and awake, with a lot of time to think about my future… and surf the web for potential careers.
 
 ![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png "Logo Title Text 1")
-<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png" width="200" height="40" alt="cat">
+
+<img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/sadcat.png" width="2 in" height="4 in" alt="cat">
 I knew I wanted a job in healthcare, but I was confused as to where in medicine would be a good fit for me. I could visualize very clearly what my days at work would look like if I were to become a physician, or a physician assistant, or a registered nurse (all careers I developed lengthy pros and cons lists for).
 
 However, there was another career involving medicine that I was drawn to but didn’t know enough about. “Biostatistics” was a class biochemistry majors took at my university, but I had been exempted because I took AP Statistics in high school.
