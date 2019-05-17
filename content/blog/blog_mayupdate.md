@@ -4,7 +4,6 @@ author: Katherine Hoffman
 date: 2019-04-16
 draft: false
 slug: headers-in-functions
-external_link: "https://github.com/hoffmakl/reporting/blob/master/headerFuns.Rmd"
 categories: [Rmarkdown]
 tags: [R, Rmarkdown, "headers in functions"]
 excerpt: "Create organized Rmarkdown output for long, identical analyses of different data sets and/or variables."
@@ -33,7 +32,7 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 
 1.  My official job description is to assist investigators (i.e. physicians or PhD-level researchers with a scientific question) throughout all stages of the scientific research process. This means helping with study design, data collection, data cleaning (also known as getting the data in the right form for analysis and making sure nothing is obviously incorrect), data visualization, statistical analysis, reporting and explaining my results, and writing methods and results sections for scientific papers. You will soon see that on any given day I am working on multiple projects at various stages of this process.
 
-2.  I will mention R/Rstudio a bit. For those who are not familiar with it, R is an open-source (which means anyone can help contribute) programming language that is well-equipped for statistical analysis. It’s arguably very similar to Python, which is a more widely used language, but statisticians tend to use R more because its statistical packages are very well-developed. During grad school I used Python because I worked in a computational biology lab, and I learned SAS (another statistical programming language) in some of my classes, but R is what I prefer these days. Rstudio is a platform that makes it more user friendly to use R.
+2.  I will mention R/Rstudio a bit. For those who are not familiar with it, [R](https://www.r-project.org/) is an open-source (which means anyone can help contribute) programming language that is well-equipped for statistical analysis. It’s arguably very similar to [Python](https://www.python.org/), which is a more widely used language, but statisticians tend to use R more because its statistical packages are very well-developed. During grad school I used Python because I worked in a computational biology lab, and I learned [SAS](https://www.sas.com/en_us/home.html) (another statistical programming language) in some of my classes, but R is what I prefer these days. [Rstudio](https://www.rstudio.com/) is a platform that makes it more user friendly to use R.
 
 So, without further ado! An average day\*\*:
 
@@ -53,7 +52,7 @@ The researchers have asked for my assistance in writing the methods section. The
 
 12:00PM - I head to lunch with a group of coworkers. They have gotten food from a nearby salad place, and we sit in one of our favorite buildings on campus and eat together. Our jokes oscillate from incredibly nerdy to pretty stupid.
 
-<video width="200" height="300" id="sampleMovie1" src="![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
+<video width="200" height="300" id="sampleMovie1" src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
 
 12:45PM - I get back to my desk and type up my handwritten notes from the neurology meeting and put them in that project’s “Notes” folder. It’s important to me that I keep track of all my meetings electronically - I fear losing my notebooks or someone else having to decipher my cursive should I ever have to pass off a project.
@@ -76,7 +75,7 @@ I close the report; I will continue working on this analysis tomorrow.
 
 6:00PM The meeting ends, and I go back to my desk to record more handwritten notes. I log the hours I spent on each project that day into Toggl, which is the time-tracking application our team uses. This is so we know how much time we’re spending on each project, and is as much for our own sake as it is anyone else’s. I update my to-do list, which is a giant color-coded excel spreadsheet, and eat a few chocolate covered raisins as my reward for a productive day.
 
-6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), voleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
+6:15PM I leave work! I typically have some kind of activity, like happy hour (see my cubicle buddies below!), volleyball, or Spanish class that I’m heading off to. Some days I attend coding workshops hosted by groups such as R-ladies. On nights when I’m feeling especially nerdy, I’ll go home and read a statistics paper or sift through the \#rstats tips on twitter.
 
 ![alt text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/coworkers.jpg" "Logo Title Text 1")
 
