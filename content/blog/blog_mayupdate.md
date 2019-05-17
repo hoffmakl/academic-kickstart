@@ -23,12 +23,11 @@ However, there was another career involving medicine that I was drawn to but did
 
 To me, biostatistics seemed to be the application of some high school-level math to biological problems. I had no concept of what a degree in biostatistics, and much less a career as a biostatistician, could entail. Endless Google searches with some variant of “what does a biostatistician do” and even “day in the life of a biostatistician” had not given me a very good picture of what I would actually be doing as a biostatistician.
 
-I ultimately lucked out during a conversation with a professor during my senior year of college. I was rambling about my many life plans and he mentioned his cousin was the chair of a well-known Biostatistics program. He encouraged me to email her my questions about biostatistics, and I will forever be grateful she took time to respond with detailed answers. Her description of life as a biostatistician was enough for me to choose going to graduate school for an MS in biostatistics over medical school/physician assistant school/second-degree nursing.
+I ultimately lucked out during a conversation with a professor during my senior year of college. I was rambling about my many life plans and he mentioned his cousin was the chair of a well-known Biostatistics program. He encouraged me to email her my questions about biostatistics, and I am so grateful she took time to respond with detailed answers. Her description of life as a biostatistician was enough for me to choose going to graduate school for an MS in biostatistics over medical school/physician assistant school/second-degree nursing.
 
 I feel wholeheartedly that although I would have enjoyed my life as an MD/PA/RN, biostatistics is the right career for me. So, in honor of my confused younger self, and as a way of paying it forward, I’ve dedicated this topic for my very first blog post!
 
 <img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/ma_box.png" alt="ma"width="400px" height="400px" >
-
 
 A full disclaimer - what follows is a day in the life of one masters-level, academic research-focused biostatistician and I cannot make claims about the careers of statisticians in industry or pharmaceuticals or hospitals or government. In addition, here’s a bit more background before I get into the granular details of my work:
 
@@ -37,7 +36,6 @@ A full disclaimer - what follows is a day in the life of one masters-level, acad
 2.  I will mention R/Rstudio a bit. For those who are not familiar with it, [R](https://www.r-project.org/) is an open-source (which means anyone can help contribute) programming language that is well-equipped for statistical analysis. It’s arguably very similar to [Python](https://www.python.org/), which is a more widely used language, but statisticians tend to use R more because its statistical packages are very well-developed. During grad school I used Python because I worked in a computational biology lab, and I learned [SAS](https://www.sas.com/en_us/home.html) (another statistical programming language) in some of my classes, but R is what I prefer these days. [Rstudio](https://www.rstudio.com/) is a platform that makes it more user friendly to use R.
 
 So, without further ado! An average day\*\*:
-
 
 <img src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/desk.png" width="500px" height="375px" alt="desky">
 
@@ -48,6 +46,8 @@ So, without further ado! An average day\*\*:
 10:00AM - I open a manuscript draft for a paper I received yesterday. It’s from a group of residents and medical students I worked with a few months ago. Their study looks at the association between blood levels of a certain biomarker and the time to death in cancer patients. My role in the analysis was to examine the associations between several biomarkers such as phosphorus, phosphate, and calcitriol. I then fit a regression model, just like y=mx+b, but with way more math. For this analysis I used a model for when your y is a time to an event (death, in this case), fittingly called a survival model. After adjusting for confounding factors like age, which affects both tumor progression and biomarker levels, there was a significant association between the biomarker and time to death in cancer patients.
 
 The researchers have asked for my assistance in writing the methods section. The methods section of a scientific article is the steps the scientists took to analyze data explicitly written out for anyone looking to review or learn about their work. I read through their current draft of the paper carefully, make some edits, and send it back. They are hoping to submit this paper to a peer-reviewed journal within a few weeks.
+
+FIGURE_HERE
 
 10:45AM - I have a weekly meeting a few blocks from my office with a neurologist I spend a large portion of my time working with. She is a leader in the field of Alzheimer’s research, and I find it very rewarding to work on her data and be a small part of a growing body of research in the field. I am “contracted” out to her research as I am to all of the researchers I work with—it’s how my institution budgets funding for grants. One of the faculty-level biostatisticians in my department—which means he has a PhD and specializes in certain statistical methods—is also part of this contract, and some days (like today) he joins me at these meetings.
 
@@ -61,11 +61,13 @@ The researchers have asked for my assistance in writing the methods section. The
 
 1:00PM - I start to make a plan for a different analysis I’m working on. This project is something new for me - it involves a protein assay and data for 1000+ different protein expression levels. The researcher I’m working with wants to know which proteins are over- and under-expressed in people with a specific autoimmune disorder and a certain type of lung disease. I’ve recently spoken to some bioinformaticians and have a clearer idea of the analysis I need to do. I draw out a little map of the code organization I think would be the most efficient for this analysis and open up Rstudio.
 
+FIGURE_HERE
+
 1:30PM - I get to work writing up functions, which is just a fancy programming way of saying your code can do the same thing to multiple data sets (or subsets of patients, as is the case of this protein expression study I’m doing). Sometimes it takes a bit longer to write my functions than it would if I were to just copy and paste my code several different times, but the final code is much more readable and less prone to errors. By the time I’m done working, I have some interactive plots showing the significant and non-significant results. When you hover over them, they show what protein corresponds to which point on the graph. They look like this, except this is not the real data we used in her study.
 
-\*in final version this plot will be fake data and interactive
-
 I use Rstudio and its amazing Rmarkdown tool to craft a draft report to the researcher, and I save it with today’s date in my “Reports” folder for that project. The report so far includes unadjusted and adjusted models of all the protein expressions using very small p-values to account for the 1000+ statistical comparisons we’re making. I show the results in various plots such as the one above (called a “volcano plot” for its shape).
+
+FIGURE_HERE
 
 I have also started writing code for models to determine which proteins are most different, or uniquely expressed, between subgroups of patients. Tomorrow, I will use a technique common in machine learning, called clustering, to see if these protein expressions can correctly classify subgroups of patients. The goal is to find a minimum group of proteins to identify patients of interest who have both the autoimmune disorder and the lung disease my collaborator is interested in. One way this research could be impactful is that it may help determine which proteins pharmaceuticals should develop drugs to target.
 
@@ -91,7 +93,7 @@ All the best,
 
 Kat
 
-\*Not a real statistic
+\*Not a real statistic.
 
 \*\*Exact details and diseases of the studies I am currently working on have been generalized or altered to protect the research interests of my collaborators.
 
