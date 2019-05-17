@@ -55,7 +55,7 @@ The researchers have asked for my assistance in writing the methods section. The
 <video width="100" height="400" id="sampleMovie1" src="https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/IMG_0222 2.mov" caption="Matching" loop="true" autoplay="true" controls>
 </video>
 
-![Alt Text](https://giphy.com/gifs/LpLBJQp3722X0scPgi/fullscreen)
+![Alt Text](https://raw.githubusercontent.com/hoffmakl/khoffman_website/master/content/blog/katalan.gif)
 
 
 
