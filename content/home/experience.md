@@ -41,10 +41,10 @@ date_format = "Jan 2006"
   
   Additional roles:
   
-  * Teaching Assistant for MS-level courses:
+  * Teaching Assistant for WCM's Biostatistics and Data Science MS courses:
   
-     * Biostatistics II (GLMs, Survival Analysis) - Winter 2019
-     * Modern Methods for Causal Inference - Spring/Summer 2019
+     * Biostatistics II
+     * Modern Methods for Causal Inference
      
   * Contributor to WCM Biostatistics Computing Club
   
@@ -57,15 +57,15 @@ date_format = "Jan 2006"
   location = "Ann Arbor, Michigan"
   date_start = "2016-09-07"
   date_end = "2018-04-24"
-  description = """[Peter Song's Biostatistics Lab](http://www.umich.edu/~songlab/)
+  description = """[Dr. Peter Song's Biostatistics Lab](http://www.umich.edu/~songlab/)
   
   * Set up, maintained, and descriptively analyzed a national database on air pollution and renal failure incidence at the U.S. county level in preparation for a longitudinal geospatial association study.
   
-  [Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
+  [Dr. Jeffrey Kidd's Computational Biology Lab](http://genome.med.umich.edu/kidd-lab/)
   
   * Executed and evaluated methods for detecting chromosomal inversions in the dog genome e.g. pooled clone sequencing abnormalities, SNP linkage disequilibrium decay irregularities, and principal component analysis. 
   
-  [Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
+  [Dr. Monica Dus' Neuroscience and Epigenetics Lab](https://sites.lsa.umich.edu/dus-lab/)
   
   * Created pipelines in R for neuroscience researchers to clean, summarize, and create visualizations of their large data sets of Drosophila feeding behaviors and neuronal imaging patterns.
   
