@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   
   Current collaborations:
   
-  * Alzheimer's Disease prevention research with WCM neurologist [Dr. Lisa Mosconi](https://www.lisamosconi.com/)
+  * Alzheimer's Disease prevention with WCM neurologist [Dr. Lisa Mosconi](https://www.lisamosconi.com/)
   * Pulmonary diseases and ICU outcomes with WCM's [Division of Pulmonary and Critical Care Medicine](https://medicine.weill.cornell.edu/divisions-programs/pulmonary-critical-care-medicine)
   
   Additional roles:
