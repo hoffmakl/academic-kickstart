@@ -47,7 +47,7 @@ date_format = "Jan 2006"
      * Biostatistics II
      * Causal Inference
      
-  * Contributor to WCM Biostatistics Computing Club
+  * Contributor to [WCM Biostatistics Computing Club](https://wcm-computing-club.github.io/)
   
   """
 
