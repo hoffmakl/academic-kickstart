@@ -9,4 +9,4 @@ categories: [R]
 tags: [R, rstatsnyc, NY R conference]
 ---
 
-See my [quick reflections](https://wcm-computing-club.github.io/file_slides/nyc-r-highlights.html) on the May 8-10, 2019 New York R conference. Created for my coworkers on Weill Cornell Medicine's Biostatistics team.
+See my [quick reflections](https://wcm-computing-club.github.io/file_slides/nyc-r-highlights.html) on the May 9-11, 2019 New York R conference. Created for my coworkers on Weill Cornell Medicine's Biostatistics team.
