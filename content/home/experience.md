@@ -36,15 +36,16 @@ date_format = "Jan 2006"
   
   Current collaborations:
   
-  * Alzheimer's Disease prevention research with WCM neurologist Dr. Lisa Mosconi
-  * Pulmonary diseases and ICU outcomes with WCM's Division of Pulmonary and Critical Care Medicine
+  * Alzheimer's Disease prevention research with WCM neurologist [Dr. Lisa Mosconi](https://www.lisamosconi.com/)
+  * Pulmonary diseases and ICU outcomes with WCM's [Division of Pulmonary and Critical Care Medicine](https://medicine.weill.cornell.edu/divisions-programs/pulmonary-critical-care-medicine)
   
   Additional roles:
   
   * Teaching Assistant for WCM's Biostatistics and Data Science MS courses:
   
+     * Data Science I
      * Biostatistics II
-     * Modern Methods for Causal Inference
+     * Causal Inference
      
   * Contributor to WCM Biostatistics Computing Club
   
