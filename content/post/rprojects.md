@@ -7,7 +7,6 @@ slug: rprojects
 external_link: "https://github.com/hoffmakl/Rproj-here-tutorial"
 categories: [R]
 tags: [R, Rprojects, reproducibility, workflow]
-excerpt: "A step towards reproducibility."
 ---
 
 View the [presentation](https://wcm-computing-club.github.io/file_slides/Rproject_here_slides.pdf) I created for Weill Cornell Medicine Biostatistics Computing Club.
