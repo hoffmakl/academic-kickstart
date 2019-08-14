@@ -1,5 +1,5 @@
 ---
-title: Reproducible Workflow: R Projects and the here::here() package
+title: Reproducible Workflow: R Projects and the here package
 author: Katherine Hoffman
 date: June 2019
 draft: false
