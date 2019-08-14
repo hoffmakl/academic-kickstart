@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of a Biostatistician
+title: A Day in the Life of a Research Biostatistician
 author: Katherine Hoffman
 date: 2019-04-16
 draft: false
