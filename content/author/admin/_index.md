@@ -73,6 +73,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Research Biostatistician at Weill Cornell Medicine in New York City. I enjoy the intersection of math, medicine, and meaningful, reproducible research.
+I am a Research Biostatistician at Weill Cornell Medicine in New York City. I am passionate about meaningful, reproducible medical and public health-related research. I also enjoy teaching statistics and assist with multiple courses at Weill Cornell Medical College's Biostatistics and Data Science program.
 
-Prior to becoming a statistician, I cared for patients in the hospital as a nurse tech, played Division I softball, and wrote a [thesis](http://dspace.udmercy.edu:8080/bitstream/handle/10429/777/Hoffman_UDMHonorsThesis.pdf?sequence=1) on artists' portrayal of mental illness.
+While at the University of Michigan, I led the Biostatistics Student Association and participated in Statistics in the Community (STATCOM). Prior to becoming a statistician, I cared for patients in the hospital as a nurse tech, played Division I softball and coached high schoolers, and wrote a [thesis](http://dspace.udmercy.edu:8080/bitstream/handle/10429/777/Hoffman_UDMHonorsThesis.pdf?sequence=1) on artists' portrayal of mental illness.
