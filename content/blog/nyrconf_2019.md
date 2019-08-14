@@ -3,7 +3,7 @@ title: Reflections of the 2019 NYR Conference
 author: Katherine Hoffman
 date: June 2019
 draft: false
-slug: dplyr-data-wrangling
+slug: rstatsnyc-2019
 external_link: "https://github.com/hoffmakl/nyr-conf-comp-club"
 categories: [R]
 tags: [R, rstatsnyc, NY R conference]
