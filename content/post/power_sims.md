@@ -9,4 +9,4 @@ categories: [R]
 tags: [R, power, simulations]
 ---
 
-View the [presentation](https://wcm-computing-club.github.io/file_slides/Power%20Simulations%20in%20R.pdf) I created for Weill Cornell Medicine's Biostatistics Computing Club and the corresponding [R code](https://github.com/hoffmakl/power_sims/blob/master/slr_sim).
+View the [presentation](https://wcm-computing-club.github.io/file_slides/Power%20Simulations%20in%20R.pdf) I created for Weill Cornell Medicine's Biostatistics Computing Club and the corresponding [R code](https://wcm-computing-club.github.io/file_slides/power_sims.R).
