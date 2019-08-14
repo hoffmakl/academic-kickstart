@@ -1,5 +1,5 @@
 ---
-title: Reflections of the 2019 NYR Conference
+title: Reflections on the 2019 NYR Conference
 author: Katherine Hoffman
 date: June 2019
 draft: false
