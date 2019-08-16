@@ -9,4 +9,4 @@ categories: [R]
 tags: [R, Rprojects, reproducibility, workflow]
 ---
 
-View the [presentation](https://wcm-computing-club.github.io/file_slides/Rproject_here_slides.pdf) I created for Weill Cornell Medicine Biostatistics Computing Club and the [five minute talk](https://github.com/hoffmakl/Rproj-here-tutorial/blob/master/NYC%20R-Ladies%20Lightning%20Talk.pptx?raw=true) I gave at the 2019 NYC R-Ladies Lightning Talks.
+View the [presentation](https://wcm-computing-club.github.io/file_slides/Rproject_here_slides.pdf) I created for Weill Cornell Medicine Biostatistics Computing Club or the [five minute talk](https://github.com/hoffmakl/Rproj-here-tutorial/blob/master/NYC%20R-Ladies%20Lightning%20Talk.pptx?raw=true) I gave at the 2019 NYC R-Ladies Lightning Talks.
