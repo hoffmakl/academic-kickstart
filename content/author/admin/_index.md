@@ -26,7 +26,7 @@ interests = [
   "Causal Inference",
   "Data Visualization",
   "Neurological Disorders",
-  "ICU Patients' Outcomes"
+  "ICU Patient Outcomes"
 ]
 
 # Organizational groups that you belong to (for People widget)
